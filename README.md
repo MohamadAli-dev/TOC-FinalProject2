@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Deterministic acyclic finite state automaton
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
