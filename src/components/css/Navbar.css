@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+    height: 100%;
+    padding: 0 20px;
+}
+
+.me-auto a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-brand {
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+}
+
+.navBar {
+    background-color: #000;
+    color: #fff;
+    height: 50px;
+    width: 100vw;
+}
